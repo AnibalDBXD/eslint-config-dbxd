@@ -1,9 +1,9 @@
 {
   "name": "eslint-config-dbxd",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "My own eslint configuration for react typescript",
   "main": "index.js",
-  "repository": "https://github.com/AnibalDBXD/eslint-dbxd",
+  "repository": "https://github.com/AnibalDBXD/eslint-config-dbxd",
   "author": "anibaldbxd",
   "license": "MIT",
   "keywords": [
@@ -11,19 +11,12 @@
     "react",
     "typescript"
   ],
-  "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2",
-    "eslint": "^7.32.0",
-    "eslint-plugin-react": "^7.24.0"
-  },
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2",
-    "eslint": "^7.32.0",
-    "eslint-plugin-react": "^7.24.0"
-  },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/parser": "^4.29.2",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.1",
+    "eslint-plugin-react": "^7.24.0",
     "typescript": "^4.3.5"
   }
 }
