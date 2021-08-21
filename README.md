@@ -6,8 +6,8 @@ Create a .eslintrc file with the following content:
 
 ```json
 {
-    'extends': [
-        'eslint-dbxd'
+    "extends": [
+        "eslint-dbxd"
     ]
 }
 ```
