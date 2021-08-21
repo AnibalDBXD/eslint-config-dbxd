@@ -1,6 +1,6 @@
 {
   "name": "eslint-dbxd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My own eslint configuration for react typescript",
   "main": "index.js",
   "repository": "https://github.com/AnibalDBXD/eslint-dbxd",
